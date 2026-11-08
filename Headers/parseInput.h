@@ -3,6 +3,6 @@
 #include <vector>
 #include <string>
 
-std::vector<std::string> parseInput(const int argc, const char* const argv[]);
+std::vector<std::string> parseInput(int argc, const char* const argv[]);
 
 #endif
